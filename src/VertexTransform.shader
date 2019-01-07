@@ -243,4 +243,5 @@ Shader "Vertex/Transform"
         }
     }
     FallBack "Diffuse"
+    CustomEditor "VertexTransformShaders.CubedParadoxFlatLitToonInspector"
 }
